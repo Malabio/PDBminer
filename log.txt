@@ -1,0 +1,19 @@
+2024-10-19 09:05:55,577 - INFO - PDBminer is starting
+2024-10-19 09:05:55,577 - INFO - input file mode is choosen and input file has been identified.
+2024-10-19 09:06:10,157 - INFO - PDBminer is starting
+2024-10-19 09:06:10,157 - INFO - input file mode is choosen and input file has been identified.
+2024-10-19 09:06:11,001 - INFO - Pipeline is starting
+2024-10-19 09:06:16,896 - WARNING - Uniprot returned 35 structures. NOTICE that structures deposited in the PDB within 8 weeks may not be included in this list, Q5S007.
+2024-10-19 09:07:51,906 - INFO - total runtime: 0:01:41.749083
+2024-10-19 09:07:51,906 - INFO - PDBminer has finished.
+2024-10-19 09:09:45,662 - INFO - PDBminer is starting
+2024-10-19 09:09:46,089 - WARNING - No Uniprot record in this id, no Hugo Name could be retrived with UniProt for ['Q5S007']. Gene name assigned NA.
+2024-10-19 09:09:46,092 - INFO - input file created based on hugo name and uniprot id, file name: input_file.csv
+2024-10-19 09:09:46,092 - INFO - Pipeline is starting
+2024-10-19 09:10:03,474 - INFO - PDBminer is starting
+2024-10-19 09:10:03,899 - WARNING - No Uniprot record in this id, no Hugo Name could be retrived with UniProt for ['Q5S007']. Gene name assigned NA.
+2024-10-19 09:10:03,902 - INFO - input file created based on hugo name and uniprot id, file name: input_file.csv
+2024-10-19 09:10:03,902 - INFO - Pipeline is starting
+2024-10-19 09:10:09,686 - WARNING - Uniprot returned 35 structures. NOTICE that structures deposited in the PDB within 8 weeks may not be included in this list, Q5S007.
+2024-10-19 09:11:40,568 - INFO - total runtime: 0:01:37.094548
+2024-10-19 09:11:40,569 - INFO - PDBminer has finished.
